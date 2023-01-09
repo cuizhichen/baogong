@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/baogong/static/css/main.2f1bef89.css",
+    "main.js": "/baogong/static/js/main.5c627097.js",
+    "index.html": "/baogong/index.html",
+    "main.2f1bef89.css.map": "/baogong/static/css/main.2f1bef89.css.map",
+    "main.5c627097.js.map": "/baogong/static/js/main.5c627097.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f1bef89.css",
+    "static/js/main.5c627097.js"
+  ]
+}
